@@ -1,2 +1,2 @@
 # datasets
-Here I will keep my datasets for people to use if tehy need to.
+Here I will keep my datasets for people to use if they need to.
