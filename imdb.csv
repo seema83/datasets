@@ -1,0 +1,251 @@
+ranking_id,movie_title,year_released,imdb_rating,director,genre,watch_status
+1, The Shawshank Redemption ,1994,9.2,Frank Darabont,drama,seen
+2, The Godfather ,1972,9.2,Francis Ford Coppola,"drama, crime",seen
+3, The Dark Knight ,2008,9,Christopher Nolan,"action, crime, drama, thriller",seen
+4, The Godfather Part II ,1974,9,Francis Ford Coppola,"crime, drama",seen
+5, 12 Angry Men ,1957,9,Sidney Lumet,"crime, drama",not_seen
+6, Schindler's List ,1993,8.9,Steven Spielberg,"biography, drama, history",seen
+7, The Lord of the Rings: The Return of the King ,2003,8.9,Peter Jackson,"action, adventure, drama",seen
+8, Pulp Fiction ,1994,8.8,Quentin Tarantino,"crime, drama",seen
+9, The Lord of the Rings: The Fellowship of the Ring ,2001,8.8,Peter Jackson,"action, adventure, drama",seen
+10," The Good, the Bad and the Ugly ",1966,8.8,Sergio Leone,"adventure, western",not_seen
+11, Forrest Gump ,1994,8.8,Robert Zemeckis,"drama, romance",seen
+12, Fight Club ,1999,8.7,David Fincher,drama,not_seen
+13, The Lord of the Rings: The Two Towers ,2002,8.7,Peter Jackson,"action, adventure, drama",seen
+14, Inception ,2010,8.7,Christopher Nolan,"action, adventure, sci-fi",seen
+15, Star Wars: Episode V - The Empire Strikes Back ,1980,8.7,Irvin Kershner,"action, adventure, fantasy",seen
+16, The Matrix ,1999,8.7,"Lana Wachowski, Lilly Wachowski","action, sci-fi",seen
+17, Goodfellas ,1990,8.7,Martin Scorsese,"biography, crime, drama",not_seen
+18, One Flew Over the Cuckoo's Nest ,1975,8.6,Milos Forman,drama,not_seen
+19, Se7en ,1995,8.6,David Fincher,"crime, mystery",not_seen
+20, It's a Wonderful Life ,1946,8.6,Frank Capra,"drama, family, fantasy",not_seen
+21, Seven Samurai ,1954,8.6,Akira Kurosawa,"action, drama",not_seen
+22, The Silence of the Lambs ,1991,8.6,Jonathan Demme,"crime, drama, thriller",not_seen
+23, Saving Private Ryan ,1998,8.6,Steven Spielberg,"drama, war",not_seen
+24, City of God ,2002,8.6,Fernando Meirelles,"crime, drama",not_seen
+25, Interstellar ,2014,8.6,Christopher Nolan,"adventure, drama, sci-fi",not_seen
+26, Life Is Beautiful ,1997,8.6,Roberto Benigni,"comedy, drama, romance",seen
+27, The Green Mile ,1999,8.6,Frank Darabont,"crime, drama, fantasy",seen
+28, Star Wars: Episode IV - A New Hope ,1977,8.5,George Lucas,"action, adventure, fantasy",seen
+29, Terminator 2: Judgment Day ,1991,8.5,James Cameron,"action, sci-fi",not_seen
+30, Back to the Future ,1985,8.5,Robert Zemeckis,"adventure, comedy, sci-fi",not_seen
+31, Spirited Away ,2001,8.5,Hayao Miyazaki,"animation, adventure, family",not_seen
+32, The Pianist ,2002,8.5,Roman Polanski,"biography, drama, music",seen
+33, Psycho ,1960,8.5,Alfred Hitchcock,"horror, mystery, thriller",seen
+34, Parasite ,2019,8.5,Bong Joon Ho,"drama, thriller",not_seen
+35, Léon: The Professional ,1994,8.5,Luc Besson,"action, crime, drama",not_seen
+36, The Lion King ,1994,8.5,"Roger Allers, Rob Minkoff","animation, adventure, drama",not_seen
+37, Gladiator ,2000,8.5,Ridley Scott,"action, adventure, drama",not_seen
+38, American History X ,1998,8.5,Tony Kaye,"crime, drama",not_seen
+39, The Departed ,2006,8.5,Martin Scorsese,"crime, drama, thriller",not_seen
+40, Whiplash ,2014,8.5,Damien Chazelle,"drama, music",not_seen
+41, The Prestige ,2006,8.5,Christopher Nolan,"drama, mystery, sci-fi",not_seen
+42, The Usual Suspects ,1995,8.5,Bryan Singer,"crime, drama, mystery",not_seen
+43, Casablanca ,1942,8.5,Michael Curtiz,"drama,romance,war",not_seen
+44, Grave of the Fireflies ,1988,8.5,Isao Takahata,"animation, drama,war",not_seen
+45, Harakiri ,1962,8.5,Masaki Kobayashi,"animation, drama,mystery",not_seen
+46, The Intouchables ,2011,8.5,"Olivier Nakache, Éric Toledano","biography, comedy, drama",not_seen
+47, Modern Times ,1936,8.4,Charles Chaplin,"comedy, drama, romance",not_seen
+48, Once Upon a Time in the West ,1968,8.4,Sergio Leone,western,not_seen
+49, Cinema Paradiso ,1988,8.4,Giuseppe Tornatore,"drama, romance",not_seen
+50, Rear Window ,1954,8.4,Alfred Hitchcock,"mystery, thriller",not_seen
+51, Alien ,1979,8.4,Ridley Scott,"horror, sci-fi",not_seen
+52, City Lights ,1931,8.4,Charles Chaplin,"comedy, drama, romance",not_seen
+53, Apocalypse Now ,1979,8.4,Francis Ford Coppola,"drama, mystery, war",not_seen
+54, Memento ,2000,8.4,Christopher Nolan,"mystery, thriller",not_seen
+55, Django Unchained ,2012,8.4,Quentin Tarantino,"drama, western",seen
+56, Raiders of the Lost Ark ,1981,8.4,Steven Spielberg,"action, adventure",not_seen
+57, WALL·E ,2008,8.4,Andrew Stanton,"animation, adventure, family",seen
+58, The Lives of Others ,2006,8.4,Florian Henckel von Donnersmarck,"drama, mystery, thriller",not_seen
+59, Sunset Blvd.,1950,8.4,Billy Wilder,"drama, film-noir",not_seen
+60, Paths of Glory ,1957,8.4,Stanley Kubrick,"drama, war",not_seen
+61, The Shining ,1980,8.4,Stanley Kubrick,"drama, horror",not_seen
+62, The Great Dictator ,1940,8.4,Charles Chaplin,"comedy, drama, war",not_seen
+63, Avengers: Infinity War ,2018,8.4,"Anthony Russo, Joe Russo","action, adventure, sci-fi",not_seen
+64, Witness for the Prosecution ,1957,8.4,Billy Wilder,"crime, drama, mystery",not_seen
+65, Aliens ,1986,8.3,James Cameron,"action, adventure, sci-fi",not_seen
+66, Spider-Man: Into the Spider-Verse ,2018,8.3,"Bob Persichetti, Peter Ramsey, Rodney Rothman","animation, action, adventure",seen
+67, American Beauty ,1999,8.3,Sam Mendes,drama,not_seen
+68, Dr Strangelove or: How I Learned to Stop Worrying and Love the Bomb ,1964,8.3,Stanley Kubrick,"comedy, war",not_seen
+69, The Dark Knight Rises ,2012,8.3,Christopher Nolan,"action, drama, thriller",not_seen
+70, Oldboy ,2003,8.3,Park Chan-wook,"action, drama, mystery",not_seen
+71, Inglourious Basterds ,2009,8.3,Quentin Tarantino,"adventure, drama, war",not_seen
+72, Amadeus ,1984,8.3,Milos Forman,"biography, drama, music",not_seen
+73, Coco ,2017,8.3,"Lee Unkrich, Adrian Molina","animation, adventure, comedy",seen
+74, Toy Story ,1995,8.3,John Lasseter,"animation, adventure, comedy",seen
+75, Braveheart ,1995,8.3,Mel Gibson,"biography, drama, history",not_seen
+76, Joker ,2019,8.3,Todd Phillips,"crime, drama, thriller",seen
+77, Das Boot ,1981,8.3,Wolfgang Petersen,"drama, war",not_seen
+78, Avengers: Endgame ,2019,8.3,"Anthony Russo, Joe Russo","action, adventure, drama",seen
+79, Princess Mononoke ,1997,8.3,Hayao Miyazaki,"animation, action, adventure",not_seen
+80, Once Upon a Time in America ,1984,8.3,Sergio Leone,"crime, drama",not_seen
+81, Good Will Hunting ,1997,8.3,Gus Van Sant,"drama, romance",seen
+82, Your Name.,2016,8.3,Makoto Shinkai,"animation, drama,fantasy",not_seen
+83, Singin' in the Rain ,1952,8.3,"Stanley Donen, Gene Kelly","comedy, musical, romance",not_seen
+84, 3 Idiots ,2009,8.3,Rajkumar Hirani,"comedy, drama",seen
+85, Requiem for a Dream ,2000,8.3,Darren Aronofsky,drama,not_seen
+86, High and Low ,1963,8.3,Akira Kurosawa,"crime,drama, mystery",not_seen
+87, Toy Story 3 ,2010,8.3,Lee Unkrich,"animation, adventure, comedy",not_seen
+88, Capernaum ,2018,8.3,Nadine Labaki,drama,not_seen
+89, Star Wars: Episode VI - Return of the Jedi ,1983,8.3,Richard Marquand,"action, adventure, fantasy",not_seen
+90, 2001: A Space Odyssey ,1968,8.3,Stanley Kubrick,"adventure, sci-fi",not_seen
+91, Eternal Sunshine of the Spotless Mind ,2004,8.3,Michel Gondry,"drama, romance, sci-fi",seen
+92, Come and See ,1985,8.3,Elem Klimov,"drama, thriller, war",not_seen
+93, Reservoir Dogs ,1992,8.3,Quentin Tarantino,"crime, thriller",not_seen
+94, The Hunt ,2012,8.3,Thomas Vinterberg,drama,not_seen
+95, Citizen Kane ,1941,8.2,Orson Welles,"drama, mystery",not_seen
+96, Lawrence of Arabia ,1962,8.2,David Lean,"adventure, biography, drama",not_seen
+97, M ,1931,8.2,Fritz Lang,"crime, mystery, thriller",not_seen
+98, Ikiru ,1952,8.2,Akira Kurosawa,drama,not_seen
+99, North by Northwest ,1959,8.2,Alfred Hitchcock,"action, adventure, mystery",not_seen
+100, Vertigo ,1958,8.2,Alfred Hitchcock,"mystery, romance, thriller",not_seen
+101, The Apartment ,1960,8.2,Billy Wilder,"comedy, drama, romance",not_seen
+102, Amélie ,2001,8.2,Jean-Pierre Jeunet,"comedy, romance",seen
+103, Double Indemnity ,1944,8.2,Billy Wilder,"crime, drama, film-noir",not_seen
+104, A Clockwork Orange ,1971,8.2,Stanley Kubrick,"crime, sci-fi",not_seen
+105, Full Metal Jacket ,1987,8.2,Stanley Kubrick,"drama, war",not_seen
+106, Scarface ,1983,8.2,Brian De Palma,"crime, drama",not_seen
+107, Hamilton ,2020,8.2,Thomas Kail,"biography, drama, history",not_seen
+108,Incendies ,2010,8.2,Denis Villeneuve,"drama, mystery",not_seen
+109,Heat,1995,8.2,Michael Mann,"action, crime, drama",not_seen
+110, To Kill a Mockingbird ,1962,8.2,Robert Mulligan,"crime, drama",seen
+111, Up ,2009,8.2,"Pete Docter, Bob Peterson","animation, adventure,comedy",seen
+112, The Sting ,1973,8.2,George Roy Hill,"comedy, crime, drama",not_seen
+113, A Separation ,2011,8.2,Asghar Farhadi,drama,not_seen
+114, Metropolis ,1927,8.2,Fritz Lang,"drama, sci-fi",not_seen
+115, L.A. Confidential,1997,8.2,Curtis Hanson,"crime, drama, mystery",not_seen
+116, Taxi Driver ,1976,8.2,Martin Scorsese,"crime, drama, mystery",not_seen
+117, Die Hard ,1988,8.2,John McTiernan,"action, thriller",not_seen
+118, Indiana Jones and the Last Crusade ,1989,8.2,Steven Spielberg,"action, adventure",not_seen
+119, Snatch ,2000,8.2,Guy Ritchie,"comedy,crime",not_seen
+120, Bicycle Thieves ,1948,8.2,Vittorio De Sica,drama,not_seen
+121, Like Stars on Earth ,2007,8.2,Aamir Khan,"drama, family",seen
+122,1917,2019,8.2,Sam Mendes,"action, drama, war",not_seen
+123, Top Gun: Maverick ,2022,8.2,Joseph Kosinski,"action, drama",not_seen
+124, Downfall ,2004,8.2,Oliver Hirschbiegel,"biography, drama, history",not_seen
+125, Dangal ,2016,8.2,Nitesh Tiwari,"action, biography, drama",seen
+126, For a Few Dollars More ,1965,8.2,Sergio Leone,western,not_seen
+127, Batman Begins ,2005,8.2,Christopher Nolan,"action, crime, drama",seen
+128, The Kid ,1921,8.2,Charles Chaplin,"comedy, drama, family",not_seen
+129, Some Like It Hot ,1959,8.2,Billy Wilder,"comedy,music, romance",not_seen
+130, The Father ,2020,8.2,Florian Zeller,"drama, mystery",not_seen
+131, All About Eve ,1950,8.2,Joseph L. Mankiewicz,drama,not_seen
+132, The Wolf of Wall Street ,2013,8.2,Martin Scorsese,"biography, comedy, crime",not_seen
+133, Green Book ,2018,8.2,Peter Farrelly,"biography, comedy, drama",not_seen
+134, Judgment at Nuremberg ,1961,8.2,Stanley Kramer,"drama, war",not_seen
+135, Ran ,1985,8.2,Akira Kurosawa,"action,drama, war",not_seen
+136, Casino ,1995,8.2,Martin Scorsese,"crime, drama",not_seen
+137, The Truman Show ,1998,8.2,Peter Weir,"comedy, drama",not_seen
+138, There Will Be Blood ,2007,8.2,Paul Thomas Anderson,drama,not_seen
+139, Pan's Labyrinth ,2006,8.2,Guillermo del Toro,"drama, fantasy, war",not_seen
+140, Unforgiven ,1992,8.2,Clint Eastwood,"drama, western",not_seen
+141, The Sixth Sense ,1999,8.2,M. Night Shyamalan,"drama, mystery, thriller",not_seen
+142, Shutter Island ,2010,8.2,Martin Scorsese,"mystery, thriller",not_seen
+143, A Beautiful Mind ,2001,8.1,Ron Howard,"biographhy,drama",seen
+144, Jurassic Park ,1993,8.1,Steven Spielberg,"action, adventure, sci-fi",seen
+145,Yojimbo,1961,8.1,Akira Kurosawa,"action, drama, thriller",not_seen
+146, The Treasure of the Sierra Madre ,1948,8.1,John Huston,"adventure, drama, western",not_seen
+147, Monty Python and the Holy Grail ,1975,8.1,"Terry Gilliam, Terry Jones","adventure, comedy, fantasy",not_seen
+148, No Country for Old Men ,2007,8.1,"Ethan Coen, Joel Coen","crime,drama, thriller",not_seen
+149, The Great Escape ,1963,8.1,John Sturges,"adventure, drama, history",not_seen
+150, Kill Bill: Vol 1,2003,8.1,Quentin Tarantino,"action, crime, drama",not_seen
+151, Rashomon ,1950,8.1,Akira Kurosawa,"crime,drama, mystery",not_seen
+152, The Thing ,1982,8.1,John Carpenter,"horror, mystery, sci-fi",not_seen
+153, Spider-Man: No Way Home ,2021,8.1,Jon Watts,"action, adventure, fantasy",not_seen
+154, Finding Nemo ,2003,8.1,"Andrew Stanton, Lee Unkrich","animation, adventure, comedy",not_seen
+155, The Elephant Man ,1980,8.1,David Lynch,"biography, drama",not_seen
+156, Chinatown ,1974,8.1,Roman Polanski,"drama, mystery,thriller",not_seen
+157, Raging Bull ,1980,8.1,Martin Scorsese,"biography, drama, sport",not_seen
+158, V for Vendetta ,2005,8.1,James McTeigue,"action, drama, sci-fi",seen
+159, Gone with the Wind ,1939,8.1,Victor Fleming,"drama, romance, war",seen
+160," Lock, Stock and Two Smoking Barrels ",1998,8.1,Guy Ritchie,"action, comedy, crime",not_seen
+161, Dial M for Murder ,1954,8.1,Alfred Hitchcock,"crime, thriller",not_seen
+162, Inside Out ,2015,8.1,"Pete Docter, Ronnie Del Carmen","animation, adventure, comedy",not_seen
+163, The Secret in Their Eyes ,2009,8.1,Juan José Campanella,"drama, mystery,romance",not_seen
+164, Howl's Moving Castle ,2004,8.1,Hayao Miyazaki,"animation, adventure, family",not_seen
+165," Three Billboards Outside Ebbing, Missouri ",2017,8.1,Martin McDonagh,"comedy, crime, drama",not_seen
+166, Trainspotting ,1996,8.1,Danny Boyle,drama,not_seen
+167, The Bridge on the River Kwai ,1957,8.1,David Lean,"adventure, drama, war",not_seen
+168, Prisoners ,2013,8.1,Denis Villeneuve,"crime, drama, mystery",not_seen
+169, John Wick: Chapter 4 ,2023,8.1,Chad Stahelski,"action, crime, thriller",not_seen
+170, Warrior ,2011,8.1,Gavin O'Connor,"action, drama, sport",not_seen
+171, Fargo ,1996,8.1,Joel Coen,"crime, thriller",not_seen
+172, Gran Torino ,2008,8.1,Clint Eastwood,drama,not_seen
+173, Catch Me If You Can ,2002,8.1,Steven Spielberg,"biography, crime, drama",not_seen
+174, My Neighbor Totoro ,1988,8.1,Hayao Miyazaki,"animation, comedy, family",not_seen
+175, Million Dollar Baby ,2004,8.1,Clint Eastwood,"drama, sport",not_seen
+176, Children of Heaven ,1997,8.1,Majid Majidi,"drama,family, sport",not_seen
+177, Blade Runner ,1982,8.1,Ridley Scott,"action, drama, sci-fi",not_seen
+178, The Gold Rush ,1925,8.1,Charles Chaplin,"adventure, comedy, drama",not_seen
+179, Klaus ,2019,8.1,Sergio Pablos,"animation, adventure, comedy",not_seen
+180, Harry Potter and the Deathly Hallows: Part 2 ,2011,8.1,David Yates,"adventure, family, fantasy",seen
+181, Before Sunrise ,1995,8.1,Richard Linklater,"drama, romance, war",not_seen
+182, 12 Years a Slave ,2013,8.1,Steve McQueen,"biography, drama, history",not_seen
+183, Ben-Hur ,1959,8.1,William Wyler,"adventure, drama",not_seen
+184, On the Waterfront ,1954,8.1,Elia Kazan,"crime, drama, thriller",not_seen
+185, The Grand Budapest Hotel ,2014,8.1,Wes Anderson,"adventure, comedy, crime",not_seen
+186, Gone Girl ,2014,8.1,David Fincher,"drama, mystery, thriller",not_seen
+187, Wild Strawberries ,1957,8.1,Ingmar Bergman,"drama, romance",not_seen
+188, The General ,1926,8.1,"Clyde Bruckman, Buster Keaton","action, adventure, comedy",not_seen
+189, Barry Lyndon ,1975,8.1,Stanley Kubrick,"adventure, drama, war",not_seen
+190, In the Name of the Father ,1993,8.1,Jim Sheridan,"biography, crime, drama",not_seen
+191, The Deer Hunter ,1978,8.1,Michael Cimino,"drama, war",not_seen
+192, The Third Man ,1949,8.1,Carol Reed,"film-noir, mystery, thriller",not_seen
+193, Hacksaw Ridge ,2016,8.1,Mel Gibson,"biography, drama, history",not_seen
+194, The Wages of Fear ,1953,8.1,Henri-Georges Clouzot,"adventure, drama, thriller",not_seen
+195, Memories of Murder ,2003,8.1,Bong Joon Ho,"crime, drama, mystery",not_seen
+196, Wild Tales ,2014,8.1,Damián Szifron,"comedy, drama, thriller",not_seen
+197, Sherlock Jr.,1924,8.1,Buster Keaton,"action, comedy,romance",not_seen
+198, Mr. Smith Goes to Washington ,1939,8.1,Frank Capra,"comedy,drama",not_seen
+199, Mad Max: Fury Road ,2015,8.1,George Miller,"action, adventure,sci-fi",not_seen
+200, Mary and Max ,2009,8.1,Adam Elliot,"animation,comedy,drama",not_seen
+201, The Seventh Seal ,1957,8.1,Ingmar Bergman,"drama,fantasy",not_seen
+202, How to Train Your Dragon ,2010,8.1,"Dean DeBlois,Chris Sanders","animation,action,adventure",not_seen
+203," Monsters, Inc",2001,8.1,Pete Docter,"animation, adventure, comedy",not_seen
+204, Dead Poets Society ,1989,8.1,Peter Weir,"comedy, drama",seen
+205, Jaws ,1975,8.1,Steven Spielberg,"adventure, thriller",seen
+206, Room ,2015,8.1,Lenny Abrahamson,"drama, thriller",not_seen
+207, The Big Lebowski ,1998,8.1,Joel Coen,"comedy, crime",not_seen
+208, Tokyo Story ,1953,8.1,Yasujirô Ozu,drama,not_seen
+209, The Passion of Joan of Arc ,1928,8.1,Carl Theodor Dreyer,"biography, drama, history",not_seen
+210, Ford v Ferrari ,2019,8,James Mangold,"action, biography, drama",not_seen
+211, Hotel Rwanda ,2004,8,Terry George,"biography, drama, history",not_seen
+212, Rocky ,1976,8,John G. Avildsen,"drama, sport",not_seen
+213, Platoon ,1986,8,Oliver Stone,"drama,war",not_seen
+214, Ratatouille ,2007,8,Brad Bird,"animation,adventure,comedy",seen
+215, Spotlight ,2015,8,Tom McCarthy,"biography,crime,drama",not_seen
+216, Logan ,2017,8,James Mangold,"action,drama, war",not_seen
+217, The Terminator ,1984,8,James Cameron,"action,sci-fi",seen
+218, Stand by Me ,1986,8,Rob Reiner,"adventure,drama",not_seen
+219, Rush ,2013,8,Ron Howard,"action, biography, drama",not_seen
+220, Network ,1976,8,Sidney Lumet,drama,not_seen
+221, Before Sunset ,2004,8,Richard Linklater,"drama, romance",seen
+222, Into the Wild ,2007,8,Sean Penn,"adventure, biography, drama",seen
+223, The Wizard of Oz ,1939,8,Victor Fleming,"adventure, family,fantasy",seen
+224, The Best Years of Our Lives ,1946,8,William Wyler,"drama,romance,war",not_seen
+225, Groundhog Day ,1993,8,Harold Ramis,"comedy,drama,fantasy",seen
+226, The Exorcist ,1973,8,William Friedkin,horror,seen
+227, The Incredibles ,2004,8,Brad Bird,"animation,action,adventure",not_seen
+228, La haine ,1995,8,Ernst Lubitsch,"comedy,romance,war",not_seen
+229, To Be or Not to Be ,1942,8,Mathieu Kassovitz,"crime,drama",not_seen
+230, Pirates of the Caribbean: The Curse of the Black Pearl ,2003,8,Gore Verbinski,"action, adventure,fantasy",seen
+231, Pather Panchali ,1955,8,Satyajit Ray,drama,seen
+232, Hachi: A Dog's Tale ,2009,8,Lasse Hallström,"biography,drama,family",seen
+233, The Grapes of Wrath ,1940,8,John Ford,drama,not_seen
+234, The Battle of Algiers ,1966,8,Gillo Pontecorvo,"drama,war",not_seen
+235, Jai Bhim ,2021,8,T.J. Gnanavel,"crime,drama,mystery",not_seen
+236, My Father and My Son ,2005,8,Çagan Irmak,"drama,family",not_seen
+237, Amores Perros ,2000,8,Alejandro G. Iñárritu,"drama,thriller",not_seen
+238, Rebecca ,1940,8,Alfred Hitchcock,"drama,film-noir,mystery",not_seen
+239, Cool Hand Luke ,1967,8,Stuart Rosenberg,"crime,drama",not_seen
+240, The Handmaiden ,2016,8,Park Chan-wook,"drama,romance,thriller",not_seen
+241, The Sound of Music ,1965,8,Robert Wise,"biography,drama,family",seen
+242, The 400 Blows ,1959,8,François Truffaut,"crime,drama",not_seen
+243, It Happened One Night ,1934,8,Frank Capra,"comedy,romance,war",not_seen
+244, Persona ,1966,8,Ingmar Bergman,"drama,thriller",not_seen
+245, Life of Brian ,1979,8,Terry Jones,comedy,not_seen
+246, The Iron Giant ,1999,8,Brad Bird,"animation,action,adventure",not_seen
+247, The Help ,2011,8,Tate Taylor,drama,seen
+248, Aladdin ,1992,8,"Ron Clements, John Musker","animation,adventure,comedy",seen
+249, Dersu Uzala ,1975,8,Akira Kurosawa,"adventure,biography,drama",not_seen
+250, Dances with Wolves ,1990,8,Kevin Costner,"adventure,drama,western",not_seen
