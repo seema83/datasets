@@ -1,0 +1,33 @@
+ID,flower_name,flower_color,scientific_name,flower_family,edibility
+1,hollyhock,pink,Alcea rosea,Malvaceae,inedible
+2,coreopsis,yellow,Coreopsis sp.,Asteraceae,inedible
+3,calendula,orange,Calendula officinalis,Asteraceae,inedible
+4,geranium,red,Pelargonium sp.,Geraniaceae,inedible
+5,star jasmine,white,Trachelospermum jasminoides,Apocynaceae,inedible
+6,larkspur,purple,Delphinium sp.,Ranunculaceae,inedible
+7,California poppy,orange,Eschscholzia californica,Papaveraceae,inedible
+8,nasturtium,orange,Tropaeolum majus,Tropaeolaceae,edible
+9,Shasta daisy,white,Leucanthemum sp.,Asteraceae,inedible
+10,sweet pea,pink,Lathyrus odoratus,Fabaceae,inedible
+11,rudbeckia,yellow,Rudbeckia sp.,Asteraceae,inedible
+12,radish,pink,Raphanus sativus,Brassicaceae,edible
+13,carrot,white,Daucus carota,Apiaceae,inedible
+14,blanket flower,"red, pink",Gaillardia sp.,Asteraceae,inedible
+15,sunflower,yellow,Helianthus annus,Asteraceae,inedible
+16,garden candytuft,pink,Iberis umbellata,Brassicaceae,inedible
+17,chamomile,white,Matricaria chamomilla,Asteraceae,edible
+18,Indian mustard,yellow,Brassica juncea,Brassicaceae,edible
+19,Asiatic lily,maroon,Lilium sp.,Liliaceae,inedible
+20,pea,white,Pisum sativum,Fabaceae,edible
+21,cilantro,white,Coriandrum sativum,Apiaceae,edible
+22,yarrow,white,Achillea millefolium,Asteraceae,inedible
+23,cornflower,blue,Centaurea cyanus,Asteraceae,inedible
+24,sweet pea shrub,magenta,Polygala myrtifolia,Polygalaceae,inedible
+25,lavender,purple,Lavandula sp.,Lamiaceae,inedible
+26,lettuce,yellow,Lactuca sativa,Asteraceae,inedible
+27,globe artichoke,green,Cynara cardunculus,Asteraceae,edible
+28,kalanchoe,magenta,Kalanchoe sp.,Crassulaceae,inedible
+29,bulbine,orange,Bulbine frutescens,Asphodelaceae,inedible
+30,wild strawberry,pink,Fragaria sp.,Rosaceae,inedible
+31,bougainvillea,magenta,Bougainvillea sp.,Nyctaginaceae,inedible
+32,Chinese Privet,white,Ligustrum sinense,Oleaceae,inedible
